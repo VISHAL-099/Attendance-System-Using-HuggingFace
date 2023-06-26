@@ -1,0 +1,8 @@
+streamlit
+Keras
+tensorflow
+Pillow
+numpy
+opencv-python
+requests
+face-recognition
